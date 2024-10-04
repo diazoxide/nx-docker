@@ -1,0 +1,17 @@
+{
+  "name": "@nx/docker",
+  "version": "0.0.1",
+  "dependencies": {
+    "@nx/devkit": "19.8.2",
+    "dockerode": "^4.0.2",
+    "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/dockerode": "^3.3.31"
+  },
+  "type": "commonjs",
+  "main": "./src/index.js",
+  "typings": "./src/index.d.ts",
+  "private": true,
+  "executors": "./executors.json"
+}
