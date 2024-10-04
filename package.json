@@ -1,5 +1,5 @@
 {
-  "name": "@nx/docker",
+  "name": "@diazoxide/nx-docker",
   "version": "0.0.1",
   "repository": {
     "type": "git",
@@ -21,6 +21,6 @@
   "type": "commonjs",
   "main": "./src/index.js",
   "typings": "./src/index.d.ts",
-  "private": true,
+  "private": false,
   "executors": "./executors.json"
 }
