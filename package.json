@@ -1,6 +1,15 @@
 {
   "name": "@nx/docker",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diazoxide/nx-docker"
+  },
+  "author": {
+    "name": "Aharon Yordanyan",
+    "email": "aaron.yor@gmail.com"
+  },
+  "license": "Apache-2.0",
   "dependencies": {
   },
   "devDependencies": {
