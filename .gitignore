@@ -1,0 +1,5 @@
+node_modules
+.idea
+nx-docker.iml
+yarn.lock
+package-lock.json
